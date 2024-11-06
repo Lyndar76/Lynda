@@ -1,4 +1,3 @@
-# Lynda
 Analyzing the economic impact of market changes on different regions.
 Data Exploration and Preprocessing:
 Data exploration steps like calculating descriptive statistics, checking for missing values and duplicates, and visualizing data using pair plots, heatmaps, and histograms. This is essential for understanding data distribution and relationships between variables.
